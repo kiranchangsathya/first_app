@@ -1,4 +1,4 @@
-== First rails application created by kiranchang
+# First rails application created by kiranchang
 
 nothing to refer here, just a normal sample app.
 
